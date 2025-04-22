@@ -2,7 +2,7 @@
 
 Worldwise application.
 
-(https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/StormJose/worldwise/blob/main/LICENSE) [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/StormJose/worldwise) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/StormJose/worldwise/tags) 
+(https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/StormJose/worldwise/blob/main/LICENSE) [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/StormJose/worldwise) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/StormJose/worldwise/tags) 
 
 ## Description
 A React application with the goal of allowing users to bookmark locations to visit all around the world.
