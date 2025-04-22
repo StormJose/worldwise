@@ -2,7 +2,7 @@
 
 Worldwise application.
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/StormJose/worldwise/commit-activity) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/StormJose/worldwise/blob/main/LICENSE) [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/StormJose/worldwise) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/StormJose/worldwise/tags) [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/StormJose/worldwise/commit)
+(https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/StormJose/worldwise/blob/main/LICENSE) [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/StormJose/worldwise) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/StormJose/worldwise/tags) 
 
 ## Description
 A React application with the goal of allowing users to bookmark locations to visit all around the world.
@@ -16,11 +16,11 @@ A React application with the goal of allowing users to bookmark locations to vis
 
 ## Installation
 ```
-npm run build
+npm install
 
 ```
 <br/>
-After the build step, run:
+After the dependencies are installed , run:
 ```
 npm run dev
 ```
