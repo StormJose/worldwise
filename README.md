@@ -1,8 +1,7 @@
 # Worldwise
 
 Worldwise application.
-
-(https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/StormJose/worldwise) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/StormJose/worldwise/tags) 
+ 
 
 ## Description
 A React application with the goal of allowing users to bookmark locations to visit all around the world.
